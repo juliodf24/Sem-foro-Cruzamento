@@ -43,11 +43,11 @@ O programa simula o funcionamento de um sistema semafórico, controlando os temp
 ## 🚀 Como executar
 1. Compile o código:
    ```bash
-   gcc src/semaforo.c -o semaforo
+   gcc src/semafaro.c -o semafaro
    ```
 2. Execute o programa:
    ```bash
-   ./semaforo
+   ./semafaro
    ```
 
 ---
