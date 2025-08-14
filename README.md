@@ -5,7 +5,7 @@ Este projeto implementa a lógica de controle de um semáforo para um cruzamento
 ---
 
 ## 📋 Descrição
-O programa simula o funcionamento de um sistema semafórico, controlando os tempos de verde, amarelo e vermelho de acordo com o **estudo dos movimentos**, **tabela de conflitos** e **diagramas de estágios e intervalos luminosos** previamente desenvolvidos.
+O programa simula o funcionamento de um sistema semafórico, controlando os tempos de verde, amarelo e vermelho de acordo com o **estudo dos movimentos**, **tabela de conflitos** e **diagramas de estágios e intervalos luminosos**.
 
 ---
 
