@@ -352,9 +352,14 @@ int main() {
         if(strcmp(gm1_sinal, "Vermelho") == 0 && strcmp(gm2_sinal, "Vermelho") == 0 && strcmp(gm3_sinal, "Vermelho") == 0){
             print_estagio0();
         }
-        printf("gm1: Sinal %s, %d s para troca de sinal\n", gm1_sinal, gm1_tempo);
-        printf("gm2: Sinal %s, %d s para troca de sinal\n", gm2_sinal, gm2_tempo);
-        printf("gm3: Sinal %s, %d s para troca de sinal\n", gm3_sinal, gm3_tempo);
+        printf("\n");
+        printf("___________________________________________________________________\n");
+        printf("| Estado atual dos semáforos:                                       \n");
+        printf("|                                                                  \n");
+        printf("| gm1: Sinal %s, %d s para troca de sinal                          \n", gm1_sinal, gm1_tempo);
+        printf("| gm2: Sinal %s, %d s para troca de sinal                          \n", gm2_sinal, gm2_tempo);
+        printf("| gm3: Sinal %s, %d s para troca de sinal                          \n", gm3_sinal, gm3_tempo);
+        printf("|_________________________________________________________________\n");
         sleep(1);
     }
     return 0;
