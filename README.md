@@ -1,6 +1,6 @@
 # 🚦 Sistema de Controle de Semáforo em C
 
-Este projeto implementa a lógica de controle de um semáforo para um cruzamento com múltiplos sentidos de tráfego, seguindo as etapas de estudo e planejamento necessárias para uma programação eficiente e segura.
+Este projeto implementa a lógica de controle de um semáforo para um cruzamento com múltiplos sentidos de tráfego, seguindo as etapas de estudo e planejamento.
 
 ---
 
